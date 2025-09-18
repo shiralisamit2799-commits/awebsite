@@ -1,0 +1,23 @@
+img {
+    width: 200px;
+}
+body {
+    font-family: 'Arial';
+    color: brown;
+    background-color: lightskyblue;
+}
+h1 {
+    font-family: 'Arial';
+    color: yellow;
+    text-align: center;
+}
+h2 {
+    font-family: 'Arial';
+    color: lime;
+    text-align: center;
+}
+h3 {
+    font-family: 'Arial';
+    color: blueviolet;
+    text-align: center;
+}
